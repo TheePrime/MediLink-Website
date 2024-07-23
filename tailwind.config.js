@@ -3,8 +3,8 @@ module.exports = {
   content: ["./**/*.{html,js}"],
   theme: {
     extend: {
-      backgroundImage:{
-        '19368' : "url('/19368.jpg')",
+      colors:{
+        'custom-gray': '#F2F4F8',
       }
     },
   },
